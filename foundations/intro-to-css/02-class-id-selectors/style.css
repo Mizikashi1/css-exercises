@@ -1,0 +1,18 @@
+.container {
+    background-color: rgb(196, 89, 107);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.second {
+    font-size: 24px;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(64, 238, 41);
+    font-weight: bold;
+}
